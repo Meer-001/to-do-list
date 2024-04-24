@@ -1,0 +1,17 @@
+{
+  "name": "meer001_to-do",
+  "version": "1.0.1",
+  "description": "This is a CLI based To-Do-list for helping you in your daily tasks",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmer Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.19"
+  }
+}
