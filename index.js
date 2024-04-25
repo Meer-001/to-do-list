@@ -21,6 +21,7 @@ while (condition) {
             name: "addMore",
             type: "confirm",
             message: "Do you want to Add more?",
+            default: "false"
         }
     ]);
     toDo.push(addTask.todos);

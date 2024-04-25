@@ -1,6 +1,6 @@
 {
   "name": "meer001_to-do",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a CLI based To-Do-list for helping you in your daily tasks",
   "main": "index.js",
   "type": "module",

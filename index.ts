@@ -34,6 +34,7 @@ let addTask = await inquirer.prompt([
         name:"addMore",
         type:"confirm",
         message:"Do you want to Add more?",
+        default: "false"
 
 
     }
